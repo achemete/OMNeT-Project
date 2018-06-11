@@ -1,0 +1,13 @@
+<environment>
+	
+	<object position="min 210 440 0" orientation="0 0 0" shape="sphere 20" material="concrete" fill-color="203 65 84" opacity="0.8"/>
+	<object position="min 400 400 0" orientation="0 0 0" shape="cuboid 40 40 40" material="concrete" fill-color="203 65 84" opacity="0.8"/>
+	
+	<object position="min 330 390 0" orientation="0 0 50" shape="cuboid 10 10 10" material="concrete" line-color="0 0 0" fill-color="112 128 144" opacity="0.5"/>
+	<object position="min 350 470 0" orientation="0 0 50" shape="cuboid 10 10 10" material="concrete" line-color="0 0 0" fill-color="112 128 144" opacity="0.5"/>
+
+	<object position="min 357 495 0" orientation="0 0 10" shape="cuboid 10 10 10" material="concrete" line-color="1 3 2" fill-color="142 138 100" opacity="0.5"/>
+
+	<object position="min 360 600 0" orientation="0 0 0" shape="cuboid 99 50 40" material="concrete" fill-color="203 65 84" opacity="0.8"/>
+
+</environment>
