@@ -1059,24 +1059,6 @@
         </position_change>
         <position_change>
             <node_id>46</node_id>
-            <start_time>2255</start_time>
-            <end_time>2305</end_time>
-            <destination><xpos>360</xpos><ypos>600</ypos></destination>
-        </position_change>
-        <position_change>
-            <node_id>46</node_id>
-            <start_time>2160</start_time>
-            <end_time>2210</end_time>
-            <destination><xpos>355</xpos><ypos>500</ypos></destination>
-        </position_change>
-        <position_change>
-            <node_id>46</node_id>
-            <start_time>2110</start_time>
-            <end_time>2160</end_time>
-            <destination><xpos>360</xpos><ypos>600</ypos></destination>
-        </position_change>
-        <position_change>
-            <node_id>46</node_id>
             <start_time>2160</start_time>
             <end_time>2210</end_time>
             <destination><xpos>355</xpos><ypos>500</ypos></destination>
@@ -1183,6 +1165,48 @@
             <start_time>3060</start_time>
             <end_time>3110</end_time>
             <destination><xpos>360</xpos><ypos>600</ypos></destination>
+        </position_change>
+        <position_change>
+            <node_id>46</node_id>
+            <start_time>3110</start_time>
+            <end_time>3160</end_time>
+            <destination><xpos>355</xpos><ypos>500</ypos></destination>
+        </position_change>
+        <position_change>
+            <node_id>46</node_id>
+            <start_time>3160</start_time>
+            <end_time>3210</end_time>
+            <destination><xpos>360</xpos><ypos>600</ypos></destination>
+        </position_change>
+        <position_change>
+            <node_id>46</node_id>
+            <start_time>3210</start_time>
+            <end_time>3260</end_time>
+            <destination><xpos>355</xpos><ypos>500</ypos></destination>
+        </position_change>
+        <position_change>
+            <node_id>46</node_id>
+            <start_time>3260</start_time>
+            <end_time>3310</end_time>
+            <destination><xpos>360</xpos><ypos>600</ypos></destination>
+        </position_change>
+        <position_change>
+            <node_id>46</node_id>
+            <start_time>3310</start_time>
+            <end_time>3360</end_time>
+            <destination><xpos>355</xpos><ypos>500</ypos></destination>
+        </position_change>
+        <position_change>
+            <node_id>46</node_id>
+            <start_time>3360</start_time>
+            <end_time>3410</end_time>
+            <destination><xpos>360</xpos><ypos>600</ypos></destination>
+        </position_change>
+        <position_change>
+            <node_id>46</node_id>
+            <start_time>3410</start_time>
+            <end_time>3460</end_time>
+            <destination><xpos>355</xpos><ypos>500</ypos></destination>
         </position_change>
 
 <!-- 0 - 1K -->
